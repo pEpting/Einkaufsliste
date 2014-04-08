@@ -1,3 +1,4 @@
 1 Apfel
 2 Eier
 5 Wasserflaschen
+10 Birnen
